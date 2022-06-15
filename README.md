@@ -43,7 +43,7 @@ GET http://localhost:8083/connectors
 
 ```bash
 netstat -abnovp tcp | Select-String <string-pattern>
-kill \<PID\>
+kill <PID>
 ```
 
 
