@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "FunctionKafka": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker",
+      "launchUrl": "{Scheme}://{ServiceHost}:{ServicePort}",
+      "httpPort": 30083,
+      "useSSL": false
+    }
+  }
+}
