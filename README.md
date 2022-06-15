@@ -17,7 +17,7 @@ Azure Function to trigger Kafka consumer.
 ```
 
 
-### Create nova mensagem:
+### Create message:
 
 ```bash
 .\kafka-console-producer.bat --broker-list localhost:9092 --topic test-topic
